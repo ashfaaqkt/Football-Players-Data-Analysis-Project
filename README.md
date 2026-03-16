@@ -127,7 +127,7 @@ This project demonstrates strong skills in:
 ✔ Insight generation
 ✔ Python (Pandas, Matplotlib, Seaborn)
 
-It showcases your ability to handle real-world datasets, discover patterns, and communicate insights using visuals.
+It showcases my ability to handle real-world datasets, discover patterns, and communicate insights using visuals.
 
 
 
