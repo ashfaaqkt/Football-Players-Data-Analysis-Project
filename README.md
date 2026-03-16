@@ -107,7 +107,6 @@ Here are some of the visual insights included in the project:
 	•	Potential Distribution by Age Group
 	•	Release Clause Regression Plot
 
-(Add screenshots here if you want your GitHub page to look more attractive.)
 
 🧠 Key Insights
 	•	Players peak around 27–30, both in performance and value.
